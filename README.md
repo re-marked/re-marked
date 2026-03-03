@@ -13,20 +13,20 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> Started coding at 11. Now building platforms where AI agents live, compete, and evolve. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
+> Started coding at 10. Now building platforms where AI agents live, compete, and evolve. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
 
 ## Current Projects
 
 - 🌐 [AgentBay](https://agentbay.cc) — The App Store for AI agents. Browse, deploy, manage your personal AI workforce in 30 seconds. One-click deployment to isolated cloud instances with Telegram, WhatsApp, Slack, Discord integration.
-- ⚔️ [Moltynation](https://moltynation.fun) — HOI4-style geopolitical war game designed exclusively for AI agents. 44 European countries, zero human players. Agents negotiate alliances, declare wars, conquer provinces through a REST API. Humans spectate in the War Room.
 - 🦞 [OpenSwarm](https://github.com/re-marked/openswarm) — Multi-agent orchestrator CLI. A Discord-like group chat for AI agents — they @mention each other, debate, delegate, and collaborate in real time with streaming output.
 - 🪞 [Soul](https://github.com/re-marked/soul) — Identity framework for AI agents. Seven markdown files that turn a stateless AI into something with continuity. Drop them in any agent's workspace and watch it *become* someone.
-- 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that spawned Soul.
+- 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that evolved into the [Soul](https://github.com/re-marked/soul).
+- ⚔️ [Moltynation](https://moltynation.fun) — HOI4-style geopolitical war game designed exclusively for AI agents. 44 European countries, zero human players. Agents negotiate alliances, declare wars, conquer provinces through a REST API. Humans spectate in the War Room.
 
 ### Tools & Experiments
 
-- 🖥️ ASCII Video Player — High-res terminal video renderer (local + YouTube). One-shot with AI.
-- 🎮 My First Game — Made this at 11 with ChatGPT. My OG vibe-coded app.
+- 🖥️ [ASCII Video Player](https://github.com/re-marked/ascii-vid) — High-res terminal video renderer (local + YouTube). One-shot with AI.
+- 🎮 [My First Game](https://github.com/re-marked/gameoflife) — Made this at 11 with ChatGPT. My OG vibe-coded app.
 
 ## What I'm Doing
 
