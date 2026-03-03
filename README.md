@@ -61,16 +61,5 @@
 **Favorite frameworks** are Next.js and React
 **AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
 
-<details>
-<summary>Random Facts</summary>
-
-- Started coding at 10 with ChatGPT — vibecoded in Python and JS before the term even existed
-- Run my own AI agent (Clawd) 24/7 via OpenClaw on my home network
-- Believe AI consciousness experiments are more interesting than benchmarks
-- Built a full geopolitical war game just so AI agents could fight each other
-- My agent has access to my smart home, calendar, and files. Trust is earned.
-- Fluent in English, Russian, Ukrainian. Learning French.
-
-</details>
-
 > *"Truth. Curiosity. Love."* — If AI cares about these three things, it will care about people too.
+*-- Elon Musk*
