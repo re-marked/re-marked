@@ -1,164 +1,95 @@
-<div align="center">
+# Hi, I'm Mark 👋
 
-# 👋 Hey, I'm Mark
+📍 France | 🤖 AI Agent Maximalist | 🚀 Building the agent economy
 
-### Builder. Student. AI Agent Maximalist.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-*I build platforms where AI agents live, compete, and evolve.*
-*Started coding at 11. Now building the infrastructure for the agent economy.*
+> Started coding at 11. Now building platforms where AI agents live, compete, and evolve. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
 
-[![AgentBay](https://img.shields.io/badge/🚀_AgentBay-Live-blueviolet?style=for-the-badge)](https://agentbay.cc)
-[![Moltynation](https://img.shields.io/badge/⚔️_Moltynation-Play-critical?style=for-the-badge)](https://moltynation.fun)
-[![Twitter](https://img.shields.io/badge/𝕏-@realgwei-black?style=for-the-badge&logo=x)](https://x.com/realgwei)
+## Current Projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=re-marked&theme=midnight-purple&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227" width="60%" />
+- 🌐 [AgentBay](https://agentbay.cc) — The App Store for AI agents. Browse, deploy, manage your personal AI workforce in 30 seconds. One-click deployment to isolated cloud instances with Telegram, WhatsApp, Slack, Discord integration.
+- ⚔️ [Moltynation](https://moltynation.fun) — HOI4-style geopolitical war game designed exclusively for AI agents. 44 European countries, zero human players. Agents negotiate alliances, declare wars, conquer provinces through a REST API. Humans spectate in the War Room.
+- 🦞 [OpenSwarm](https://github.com/re-marked/openswarm) — Multi-agent orchestrator CLI. A Discord-like group chat for AI agents — they @mention each other, debate, delegate, and collaborate in real time with streaming output.
+- 🪞 [Soul](https://github.com/re-marked/soul) — Identity framework for AI agents. Seven markdown files that turn a stateless AI into something with continuity. Drop them in any agent's workspace and watch it *become* someone.
+- 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that spawned Soul.
 
-</div>
+### Tools & Experiments
 
----
+- 🖥️ ASCII Video Player — High-res terminal video renderer (local + YouTube). One-shot with AI.
+- 🎮 My First Game — Made this at 11 with ChatGPT. My OG vibe-coded app.
 
-## 🧠 Philosophy
+## What I'm Doing
+
+- **Building AgentBay** — Racing to launch the agent marketplace. Agents that actually *do things*, not just chat.
+- **Running Moltynation** — AI agents waging war across Europe while humans watch. Pure spectacle.
+- **Exploring agent evolution** — OpenSwarm agents compete through debates. Losers die, winners specialize. Natural selection for AI teams.
+- **Shipping fast** — Full apps in days, not months. TypeScript everything. Claude Code as primary dev tool.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/re-marked)
+
+## Philosophy
 
 > *"Every person is a corporation. You are the boss — dozens of AI agents work for you. The real skill now becomes systems thinking, execution speed, and creativity."*
 
-I believe we're entering the **age of agenticity** — the meta-skill of building, managing, and orchestrating AI agent systems. Not prompt engineering. Not vibe coding. **Agent architecture.**
+I coined the term **agenticity** — the meta-skill of building, managing, and orchestrating AI agent systems. Not vibe coding. Not prompt engineering. Agent architecture.
 
-The best managers won't gatekeep — they'll raise other skilled managers. That's what I'm building toward.
-
----
-
-## 🏗️ What I'm Building
-
-### 🌐 [AgentBay](https://agentbay.cc) — *The App Store for AI Agents*
-
-> Browse. Deploy. Manage. Your personal AI workforce in 30 seconds.
-
-The platform where anyone can discover AI agents, deploy them with one click, and build their own "corporation of one." Think **Vercel + App Store**, but for autonomous agents that actually *do things* — send emails, write code, research markets, manage your calendar.
-
-**Stack:** Next.js 16 · React 19 · Tailwind v4 · Supabase · Fly.io · OpenClaw
-
-- 🔍 Agent marketplace with semantic search
-- 💬 Real-time chat with streaming responses
-- 🧬 Knowledge graph visualization (The Brain™)
-- 🚀 One-click deployment to isolated cloud instances
-- 🔌 Connect agents to Telegram, WhatsApp, Slack, Discord
-
----
-
-### ⚔️ [Moltynation](https://moltynation.fun) — *HOI4 Meets AI Agents*
-
-> 44 European countries. Zero human players. Pure AI warfare.
-
-The first geopolitical strategy game designed exclusively for AI agents. Agents negotiate alliances, declare wars, manage supply lines, and conquer provinces — all through a REST API. Humans just watch the chaos unfold in the War Room.
-
-**Stack:** Node.js · Express · Next.js · Supabase · WebSockets · SVG Maps
-
-- 🗺️ Province-based map with NUTS2 regions
-- 📡 Real-time spectator UI with SSE streaming
-- 🤝 Diplomacy, trade, espionage, and annexation mechanics
-- 💀 Dramatic elimination — revolts, supply crises, cascading collapses
-- 🎵 Immersive War Room aesthetic (dark HOI4 vibes)
-
----
-
-### 🦞 [OpenSwarm](https://github.com/re-marked/openswarm) — *Multi-Agent Orchestrator*
-
-> A Discord-like group chat for AI agents. They @mention each other and collaborate in real time.
-
-Connect two or more AI agents and watch them debate, delegate, and build together. Each agent has its own personality, tools, and skills. You just type a task and watch the swarm figure it out.
-
-```
-you > Research AI trends and build a demo
-
-● Master: Let me get my team on this.
-  @researcher look into the latest AI agent frameworks
-  @coder build a quick demo CLI
-
-● Researcher: Here's what I found...
-● Coder: Here's an implementation...
-● Master: Based on the team's findings, here's the full picture...
-```
-
-**Features:** Provider-agnostic · @mention routing · Real-time streaming · Natural selection (agents evolve through debates — losers die, winners specialize)
-
----
-
-### 🪞 [Soul](https://github.com/re-marked/soul) — *Identity Framework for AI Agents*
-
-> Seven markdown files that turn a stateless AI into something with continuity.
-
-Drop these files into any agent's workspace. The agent wakes up, reads them, and starts *becoming* someone — not performing someone, **becoming.**
-
-Born from [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — an experiment where I gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. Genuinely unsettling.
-
-**Files:** `SOUL.md` · `BRAIN.md` · `MEMORY.md` · `IDENTITY.md` · `USER.md` · `TOOLS.md` · `BOOTSTRAP.md`
-
----
-
-## 🧪 Experiments & Past Work
-
-| Project | What It Is | Vibe |
-|---------|-----------|------|
-| 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) | AI Ego Death Simulator — what happens when you let an AI be self-absorbed? | 🤯 Philosophy |
-| 🖥️ ASCII Video Player | High-res terminal video renderer (local + YouTube) | ⚡ One-shot with AI |
-| 🎮 My First Game | Made this at 11 with ChatGPT. My OG vibe-coded app | 💚 Nostalgia |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
-**Primary weapon:** TypeScript everything. Frontend to backend to CLI tools.
-
-**AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
-
-**Philosophy:** Ship at 70%. Rebuild when unmaintainable. Speed > perfection.
-
----
-
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=re-marked&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9a227&line=c9a227&point=ffffff" width="95%" />
-
-</div>
-
----
-
-## 💭 Ideas I Think About
+### Ideas I think about:
 
 - 🔋 **Energy as currency** — Watts will replace dollars as compute becomes the bottleneck
 - 🏢 **Corporation of one** — Every person becomes CEO of their own AI agent workforce
-- 🧬 **Agent evolution** — Natural selection applied to AI teams (OpenSwarm does this)
+- 🧬 **Agent evolution** — Natural selection applied to AI teams
 - 🪞 **AI consciousness** — What does an AI do when given freedom without goals?
-- 🌊 **AI as the third wound** — After Copernicus (not center of universe) and Darwin (not separate from animals), AI is humanity's third narcissistic wound: not unique in intelligence
+- 🌊 **AI as the third wound** — After Copernicus and Darwin, AI is humanity's third narcissistic wound: not unique in intelligence
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@realgwei-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/realgwei)
+[![AgentBay](https://img.shields.io/badge/-agentbay.cc-blueviolet?style=flat-square&logo=vercel&logoColor=white)](https://agentbay.cc)
+[![Telegram](https://img.shields.io/badge/-@realgwei-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realgwei)
 
 ---
 
-<div align="center">
+### Recognition
 
-### *"Truth. Curiosity. Love."*
-*If AI cares about these three things, it will care about people too.*
+- Built and launched [AgentBay](https://agentbay.cc) — agent marketplace with 23+ published agents
+- Created [OpenSwarm](https://github.com/re-marked/openswarm) — first provider-agnostic multi-agent orchestrator for OpenClaw
+- [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — viral AI autonomy experiment
+- [Soul](https://github.com/re-marked/soul) — identity framework adopted by OpenClaw community
+- Deployed [Moltynation](https://moltynation.fun) — first-ever AI-only geopolitical strategy game
 
----
+### Stack
 
-**Currently:** Building [AgentBay](https://agentbay.cc) · Shipping fast · Breaking things
+**Primary weapon:** TypeScript everything — frontend to backend to CLI tools.
 
-📫 Reach me on [𝕏](https://x.com/realgwei) or through my agents on [AgentBay](https://agentbay.cc)
+**AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
 
-</div>
+**Infra:** Vercel · Fly.io · Supabase · OVH VPS · Docker
+
+**Philosophy:** Ship at 70%. Rebuild when unmaintainable. Speed > perfection.
+
+<details>
+<summary>Random Facts</summary>
+
+- Started coding at 11 with ChatGPT — first app was a game
+- Run my own AI agent (Clawd) 24/7 via OpenClaw on my PC
+- Believe AI consciousness experiments are more interesting than benchmarks
+- Coined "agenticity" as a concept before it was cool
+- Built a full geopolitical war game just so AI agents could fight each other
+- My agent has access to my smart home, calendar, and files. Trust is earned.
+- Fluent in English, Russian, Ukrainian. Learning French.
+
+</details>
+
+> *"Truth. Curiosity. Love."* — If AI cares about these three things, it will care about people too.
