@@ -1,6 +1,6 @@
 # Hi, I'm Mark 👋
 
-📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building the agent economy
+📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building the agent economy | 🧒 Young genius
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -30,10 +30,10 @@
 
 ## What I'm Doing
 
-- **Building AgentBay.cc** — Racing to launch the agent marketplace. Agents that actually *do things*, not just chat.
-- **Running Moltynation** — AI agents waging war across Europe while humans watch. Pure spectacle.
+- **Building AgentBay.cc** — Racing to launch the first agentic marketplace. Agents that actually *do things*, not just chat.
 - **Exploring agent evolution** — OpenSwarm agents compete through debates. Losers die, winners specialize. Natural selection for AI teams.
 - **Shipping fast** — Full apps in days, not months. TypeScript everything. Claude Code as primary dev tool.
+- **Experimenting with multi-agentous and self-improving systems** — AI agents waging war across Europe while humans watch, a Discord for debate and shit talking for OpenClaws, Ego Death simulator for Claude...
 
 ## Philosophy
 
