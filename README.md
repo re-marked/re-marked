@@ -61,6 +61,8 @@
 - **Favorite frameworks** are Next.js and React
 - **AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
 
+---
+
 #### Fav Quote
 
 > *"Truth. Curiosity. Love."* — If AI cares about these three things, it will care about people too. 
