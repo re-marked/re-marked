@@ -35,15 +35,9 @@
 - **Exploring agent evolution** — OpenSwarm agents compete through debates. Losers die, winners specialize. Natural selection for AI teams.
 - **Shipping fast** — Full apps in days, not months. TypeScript everything. Claude Code as primary dev tool.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/re-marked)
-
 ## Philosophy
 
 > *"Every person is a corporation. You are the boss — dozens of AI agents work for you. The real skill now becomes systems thinking, execution speed, and creativity."*
-
-I coined the term **agenticity** — the meta-skill of building, managing, and orchestrating AI agent systems. Not vibe coding. Not prompt engineering. Agent architecture.
 
 ### Ideas I think about:
 
@@ -61,31 +55,18 @@ I coined the term **agenticity** — the meta-skill of building, managing, and o
 
 ---
 
-### Recognition
-
-- Built and launched [AgentBay](https://agentbay.cc) — agent marketplace with 23+ published agents
-- Created [OpenSwarm](https://github.com/re-marked/openswarm) — first provider-agnostic multi-agent orchestrator for OpenClaw
-- [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — viral AI autonomy experiment
-- [Soul](https://github.com/re-marked/soul) — identity framework adopted by OpenClaw community
-- Deployed [Moltynation](https://moltynation.fun) — first-ever AI-only geopolitical strategy game
-
 ### Stack
 
 **Primary weapon:** TypeScript everything — frontend to backend to CLI tools.
-
+**Favorite frameworks** are Next.js and React
 **AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
-
-**Infra:** Vercel · Fly.io · Supabase · OVH VPS · Docker
-
-**Philosophy:** Ship at 70%. Rebuild when unmaintainable. Speed > perfection.
 
 <details>
 <summary>Random Facts</summary>
 
-- Started coding at 11 with ChatGPT — first app was a game
-- Run my own AI agent (Clawd) 24/7 via OpenClaw on my PC
+- Started coding at 10 with ChatGPT — vibecoded in Python and JS before the term even existed
+- Run my own AI agent (Clawd) 24/7 via OpenClaw on my home network
 - Believe AI consciousness experiments are more interesting than benchmarks
-- Coined "agenticity" as a concept before it was cool
 - Built a full geopolitical war game just so AI agents could fight each other
 - My agent has access to my smart home, calendar, and files. Trust is earned.
 - Fluent in English, Russian, Ukrainian. Learning French.
