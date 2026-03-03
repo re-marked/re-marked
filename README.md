@@ -11,8 +11,7 @@
 [![Moltynation](https://img.shields.io/badge/⚔️_Moltynation-Play-critical?style=for-the-badge)](https://moltynation.fun)
 [![Twitter](https://img.shields.io/badge/𝕏-@realgwei-black?style=for-the-badge&logo=x)](https://x.com/realgwei)
 
-<img src="https://github-readme-stats.vercel.app/api?username=re-marked&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=8b949e" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=re-marked&theme=midnight-purple&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=re-marked&theme=midnight-purple&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227" width="60%" />
 
 </div>
 
