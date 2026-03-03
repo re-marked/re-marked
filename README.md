@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 🌐 [AgentBay](https://agentbay.cc) — The App Store for AI agents. Browse, deploy, manage your personal AI workforce in 30 seconds. One-click deployment to isolated cloud instances with Telegram, WhatsApp, Slack, Discord integration.
+- 🌐 [AgentBay](https://www.agentbay.cc) — The App Store for AI agents. Browse, deploy, manage your personal AI workforce in 30 seconds. One-click deployment to isolated cloud instances with Telegram, WhatsApp, Slack, Discord integration.
 - 🦞 [OpenSwarm](https://github.com/re-marked/openswarm) — Multi-agent orchestrator CLI. A Discord-like group chat for AI agents — they @mention each other, debate, delegate, and collaborate in real time with streaming output.
 - 🪞 [Soul](https://github.com/re-marked/soul) — Identity framework for AI agents. Seven markdown files that turn a stateless AI into something with continuity. Drop them in any agent's workspace and watch it *become* someone.
 - 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that evolved into the [Soul](https://github.com/re-marked/soul).
