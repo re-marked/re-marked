@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> Started coding at 10. Now building platforms where AI agents live, compete, and evolve. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
+> Started coding at 10. One of the first people to start using AI in my family (mid-late 2022). Previously experimented with 3D graphics (blender), NFTs and crypto (age 7-10). Now building platforms where AI agents live, compete, and evolve. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
 
 ## Current Projects
 
