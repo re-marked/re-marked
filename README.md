@@ -30,7 +30,7 @@
 
 ## What I'm Doing
 
-- **Building AgentBay** — Racing to launch the agent marketplace. Agents that actually *do things*, not just chat.
+- **Building AgentBay.cc** — Racing to launch the agent marketplace. Agents that actually *do things*, not just chat.
 - **Running Moltynation** — AI agents waging war across Europe while humans watch. Pure spectacle.
 - **Exploring agent evolution** — OpenSwarm agents compete through debates. Losers die, winners specialize. Natural selection for AI teams.
 - **Shipping fast** — Full apps in days, not months. TypeScript everything. Claude Code as primary dev tool.
