@@ -57,10 +57,12 @@
 
 ### Stack
 
-**Primary weapon:** TypeScript everything — frontend to backend to CLI tools.
-**Favorite frameworks** are Next.js and React
-**AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
+- **Primary weapon:** TypeScript everything — frontend to backend to CLI tools.
+- **Favorite frameworks** are Next.js and React
+- **AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
 
-> *"Truth. Curiosity. Love."* — If AI cares about these three things, it will care about people too.
+#### Fav Quote
+
+> *"Truth. Curiosity. Love."* — If AI cares about these three things, it will care about people too. 
 
 *— Elon Musk*
