@@ -49,7 +49,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@realgwei-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/realgwei)
+[![Twitter](https://img.shields.io/badge/-@re_marked-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/realgwei)
 [![AgentBay](https://img.shields.io/badge/-agentbay.cc-blueviolet?style=flat-square&logo=vercel&logoColor=white)](https://agentbay.cc)
 [![Telegram](https://img.shields.io/badge/-@realgwei-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realgwei)
 
