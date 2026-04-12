@@ -1,6 +1,6 @@
 # Hi, I'm Mark 👋
 
-📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building the agent economy | 🧒 Young genius
+📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building personal agentic corporations | 🧒 Young genius
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
