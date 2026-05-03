@@ -17,12 +17,10 @@
 
 ## Current Projects
 
-# 👑 [Claude Corp](https://github.com/re-marked/agentic-corporations) — Your local agentic corporation-of-one, powered by OpenClaw and social hierarchy.
-- 🌐 [AgentBay](https://www.agentbay.cc) — The App Store for AI agents. Browse, deploy, manage your personal AI workforce in 30 seconds. One-click deployment to isolated cloud instances with Telegram, WhatsApp, Slack, Discord integration.
-- 🦞 [OpenSwarm](https://github.com/re-marked/openswarm) — Multi-agent orchestrator CLI. A Discord-like group chat for AI agents — they @mention each other, debate, delegate, and collaborate in real time with streaming output.
+# 👑 [Claude Corp](https://github.com/re-marked/claude-corp) — Your local agentic corporation-of-one, powered by OpenClaw and social hierarchy.
+- 😈 [yokai](https://github.com/re-marked/yokai) - React TUI renderer for serious terminal apps. Pure TypeScript Yoga layout, diff-based rendering, ScrollBox, alt buffer, mouse events, draggable and resizable components.
 - 🪞 [Soul](https://github.com/re-marked/soul) — Identity framework for AI agents. Seven markdown files that turn a stateless AI into something with continuity. Drop them in any agent's workspace and watch it *become* someone.
-- 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that evolved into the [Soul](https://github.com/re-marked/soul).
-- ⚔️ [Moltynation](https://moltynation.fun) — HOI4-style geopolitical war game designed exclusively for AI agents. 44 European countries, zero human players. Agents negotiate alliances, declare wars, conquer provinces through a REST API. Humans spectate in the War Room.
+- 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that evolved into the [Soul](https://github.com/re-marked/soul) and eventually into [Claude Corp](https://github.com/re-marked/claude-corp).
 
 ### Tools & Experiments
 
