@@ -27,13 +27,6 @@
 - 🖥️ [ASCII Video Player](https://github.com/re-marked/ascii-vid) — High-res terminal video renderer (local + YouTube). One-shot with AI.
 - 🎮 [My First Game](https://github.com/re-marked/gameoflife) — Made this at 11 with ChatGPT. My OG vibe-coded app.
 
-## What I'm Doing
-
-- **Building AgentBay.cc** — Racing to launch the first agentic marketplace. Agents that actually *do things*, not just chat.
-- **Exploring agent evolution** — OpenSwarm agents compete through debates. Losers die, winners specialize. Natural selection for AI teams.
-- **Shipping fast** — Full apps in days, not months. TypeScript everything. Claude Code as primary dev tool.
-- **Experimenting with multi-agentous and self-improving systems** — AI agents waging war across Europe while humans watch, a Discord for debate and shit talking for OpenClaws, Ego Death simulator for Claude...
-
 ## Philosophy
 
 > *"Every person is a corporation. You are the boss — dozens of AI agents work for you. The real skill now becomes systems thinking, execution speed, and creativity."*
