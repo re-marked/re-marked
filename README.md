@@ -17,8 +17,8 @@
 
 ## Current Projects
 
-# 👑 [Claude Corp](https://github.com/re-marked/claude-corp) — Your local agentic corporation-of-one, powered by OpenClaw and social hierarchy.
-- 😈 [yokai](https://github.com/re-marked/yokai) - React TUI renderer for serious terminal apps. Pure TypeScript Yoga layout, diff-based rendering, ScrollBox, alt buffer, mouse events, draggable and resizable components.
+- 😈 [yokai](https://github.com/re-marked/yokai) - React TUI renderer for serious terminal apps. Pure TypeScript Yoga layout, diff-based rendering, ScrollBox, alt buffer, mouse events, draggable and resizable components. Emerged from Claude Corp's needs.
+- 👑 [Claude Corp](https://github.com/re-marked/claude-corp) — Your local agentic corporation-of-one, powered by OpenClaw and social hierarchy.
 - 🪞 [Soul](https://github.com/re-marked/soul) — Identity framework for AI agents. Seven markdown files that turn a stateless AI into something with continuity. Drop them in any agent's workspace and watch it *become* someone.
 - 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that evolved into the [Soul](https://github.com/re-marked/soul) and eventually into [Claude Corp](https://github.com/re-marked/claude-corp).
 
