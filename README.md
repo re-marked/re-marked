@@ -30,6 +30,7 @@
 
 - 🏗️ **Geometral** — *stealth.* AI datacenter development & design. More soon.
 - 🤝 **[Handshake](https://re-marked.github.io/handshake/)** — *Obsidian for your network.* A local-first, 100%-on-device desktop app that turns the people in your orbit into a graph you can actually think with — deliberately AI-free. Public beta at v0.9.3, macOS/Windows/Linux via Tauri.
+- 🦞 **[FreeClaw](https://freeclaw.xyz)** — deploy your own OpenClaw AI agent (memory, workspaces, cron jobs, multi-session) to a personal VPS with Telegram in ~a minute. Free, live now.
 
 <p align="center">
   <a href="https://re-marked.github.io/handshake/">
