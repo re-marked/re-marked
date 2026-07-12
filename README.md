@@ -30,7 +30,6 @@
 
 - 🏗️ **Geometral** — *stealth.* AI datacenter development & design. More soon.
 - 🤝 **[Handshake](https://re-marked.github.io/handshake/)** — *Obsidian for your network.* A local-first, 100%-on-device desktop app that turns the people in your orbit into a graph you can actually think with — deliberately AI-free. Public beta at v0.9.3, macOS/Windows/Linux via Tauri.
-- 🦞 **[FreeClaw](https://freeclaw.xyz)** — deploy your own OpenClaw AI agent (memory, workspaces, cron jobs, multi-session) to a personal VPS with Telegram in ~a minute. Free, live now.
 
 <p align="center">
   <a href="https://re-marked.github.io/handshake/">
@@ -42,6 +41,7 @@
 
 - 💼 **[hiremeplz](https://hiremeplz.app)** *(sunset)* — an AI agent that helps freelancers win work. My first real product; raised **~$4,000 in SOL**.
 - 🏪 **[agentbay](https://github.com/re-marked/agentbay)** *(sunset)* — an App Store for AI agents: browse one, deploy it in 30s, and connect it to Telegram/Slack/Discord or your own machine.
+- 🦞 **[FreeClaw](https://freeclaw.xyz)** *(sunset)* — deploy your own OpenClaw AI agent (memory, workspaces, cron jobs, multi-session) to a personal VPS with Telegram in ~a minute.
 - 👑 **[Claude Corp](https://github.com/re-marked/claude-corp)** — a local agentic corporation-of-one: a self-growing org of AI agents with its own social hierarchy. Grew out of my [Soul](https://github.com/re-marked/soul) + [Manifest](https://github.com/re-marked/the-claude-manifest) identity experiments.
 - 😈 **[yokai](https://github.com/re-marked/yokai)** — the odd one out: a from-scratch React TUI renderer (pure TypeScript Yoga layout, diff rendering, mouse events). Powers the terminal UIs my agents live in.
 
