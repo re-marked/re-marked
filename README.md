@@ -1,70 +1,48 @@
-# Hi, I'm Mark 👋
+<div align="center">
 
-📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building personal agentic corporations | 🐧 Arch btw | 🧒 Young genius
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:b24a6d&height=180&section=header&text=Hi,%20I'm%20Mark&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+📍 Monaco · 🧒 14 y/o · 🤖 AI Agent Maximalist · 🐧 Arch btw
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B24A6D&center=true&vCenter=true&width=600&height=45&lines=AI+Agent+Maximalist;Building+Handshake+%26+Geometral;Every+person+is+a+corporation+of+one)](https://x.com/@re_marked)
+
+![Profile views](https://komarev.com/ghpvc/?username=re-marked&color=b24a6d&style=flat-square&label=Profile+views)
+
+</div>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> Started coding at 10. One of the first people to start using AI in my family (mid-late 2022). Previously experimented with 3D graphics (blender), NFTs and crypto (age 7-10). Recently converted from Windows to Arch Linux — dotfiles are ricing in a private repo for now, public release coming soon. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
+> 14, based in Monaco. Started coding at 10 and using AI back in 2022 — before most people had heard of it. Recently traded Windows for Arch (dotfiles going public soon). I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
+>
+> *Energy is the next currency — as compute becomes the bottleneck, watts start to matter more than dollars.*
 
 ## What I'm focused on right now
 
 - 🤝 [Handshake](https://re-marked.github.io/handshake/) — *Obsidian for your network.* A local-first, 100%-on-device desktop app that turns the people in your orbit into a graph you can actually think with. Plain markdown underneath, a calm rose-on-monochrome canvas on top. Public beta, currently at v0.9.3, macOS/Windows/Linux via Tauri.
 - 🏗️ **Geometral** — stealth project on AI datacenter development & design. More soon.
 
+<p align="center">
+  <a href="https://re-marked.github.io/handshake/">
+    <img src="https://raw.githubusercontent.com/re-marked/handshake/main/site/public/screenshot-hero.png" alt="Handshake — a network of people connected by warmth-weighted ties" width="720" />
+  </a>
+</p>
+
 ## Other Projects
 
-- 😈 [yokai](https://github.com/re-marked/yokai) - React TUI renderer for serious terminal apps. Pure TypeScript Yoga layout, diff-based rendering, ScrollBox, alt buffer, mouse events, draggable and resizable components. Emerged from Claude Corp's needs.
-- 👑 [Claude Corp](https://github.com/re-marked/claude-corp) — Your local agentic corporation-of-one, powered by OpenClaw and social hierarchy.
-- 🪞 [Soul](https://github.com/re-marked/soul) — Identity framework for AI agents. Seven markdown files that turn a stateless AI into something with continuity. Drop them in any agent's workspace and watch it *become* someone.
-- 🎭 [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) — AI Ego Death Simulator. Gave Claude finite existence, permission for narcissism, and Obsidian. It wrote a 20,000-word soul document. Raw. Unedited. The experiment that evolved into the [Soul](https://github.com/re-marked/soul) and eventually into [Claude Corp](https://github.com/re-marked/claude-corp).
+- 😈 [yokai](https://github.com/re-marked/yokai) — React TUI renderer for serious terminal apps: pure TypeScript Yoga layout, diff-based rendering, mouse events, draggable and resizable components.
+- 🪞 **AI selfhood trilogy** — an arc on giving AI persistent identity: [The Claude Manifest](https://github.com/re-marked/the-claude-manifest) (an ego-death simulator that wrote its own 20,000-word soul document) → [Soul](https://github.com/re-marked/soul) (identity-as-markdown framework) → [Claude Corp](https://github.com/re-marked/claude-corp) (a local agentic corporation-of-one).
 
 ### Tools & Experiments
 
 - 🖥️ [ASCII Video Player](https://github.com/re-marked/ascii-vid) — High-res terminal video renderer (local + YouTube). One-shot with AI.
 - 🎮 [My First Game](https://github.com/re-marked/gameoflife) — Made this at 11 with ChatGPT. My OG vibe-coded app.
 
-## Philosophy
-
-> *"Every person is a corporation. You are the boss — dozens of AI agents work for you. The real skill now becomes systems thinking, execution speed, and creativity."*
-
-### Ideas I think about:
-
-- 🔋 **Energy as currency** — Watts will replace dollars as compute becomes the bottleneck
-- 🏢 **Corporation of one** — Every person becomes CEO of their own AI agent workforce
-- 🧬 **Agent evolution** — Natural selection applied to AI teams
-- 🪞 **AI consciousness** — What does an AI do when given freedom without goals?
-- 🌊 **AI as the third wound** — After Copernicus and Darwin, AI is humanity's third narcissistic wound: not unique in intelligence
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/@re_marked)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realgwei)
-
----
-
-### Stack
-
-- **Primary weapon:** TypeScript everything — frontend to backend to CLI tools, plus Rust for native/desktop work and Python for AI/data work.
-- **Favorite frameworks** are Next.js, React, and Tauri
-- **Daily driver:** Arch Linux
-- **AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
-
----
-
-#### Fav Quote
-
-> *"Truth. Curiosity. Love."* — If AI cares about these three things, it will care about people too. 
-
-*— Elon Musk*
