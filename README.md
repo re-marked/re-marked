@@ -1,21 +1,29 @@
 # Hi, I'm Mark 👋
 
-📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building personal agentic corporations | 🧒 Young genius
+📍 Monaco | 🤖 AI Agent Maximalist | 🚀 Building personal agentic corporations | 🐧 Arch btw | 🧒 Young genius
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> Started coding at 10. One of the first people to start using AI in my family (mid-late 2022). Previously experimented with 3D graphics (blender), NFTs and crypto (age 7-10). Now building platforms where AI agents live, compete, and evolve. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
+> Started coding at 10. One of the first people to start using AI in my family (mid-late 2022). Previously experimented with 3D graphics (blender), NFTs and crypto (age 7-10). Recently converted from Windows to Arch Linux — dotfiles are ricing in a private repo for now, public release coming soon. I believe every person will become a "corporation of one" — the boss of their own AI agent workforce. The real skill isn't prompt engineering. It's **agent architecture.**
 
-## Current Projects
+## What I'm focused on right now
+
+- 🤝 [Handshake](https://re-marked.github.io/handshake/) — *Obsidian for your network.* A local-first, 100%-on-device desktop app that turns the people in your orbit into a graph you can actually think with. Plain markdown underneath, a calm rose-on-monochrome canvas on top. Public beta, currently at v0.9.3, macOS/Windows/Linux via Tauri.
+- 🏗️ **Geometral** — stealth project on AI datacenter development & design. More soon.
+
+## Other Projects
 
 - 😈 [yokai](https://github.com/re-marked/yokai) - React TUI renderer for serious terminal apps. Pure TypeScript Yoga layout, diff-based rendering, ScrollBox, alt buffer, mouse events, draggable and resizable components. Emerged from Claude Corp's needs.
 - 👑 [Claude Corp](https://github.com/re-marked/claude-corp) — Your local agentic corporation-of-one, powered by OpenClaw and social hierarchy.
@@ -48,8 +56,9 @@
 
 ### Stack
 
-- **Primary weapon:** TypeScript everything — frontend to backend to CLI tools.
-- **Favorite frameworks** are Next.js and React
+- **Primary weapon:** TypeScript everything — frontend to backend to CLI tools, plus Rust for native/desktop work and Python for AI/data work.
+- **Favorite frameworks** are Next.js, React, and Tauri
+- **Daily driver:** Arch Linux
 - **AI tooling:** Claude Code · OpenClaw · Obsidian as second brain
 
 ---
