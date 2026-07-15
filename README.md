@@ -29,11 +29,11 @@
 ## What I'm building
 
 - 🏗️ **Geometral** — *stealth.* AI datacenter development & design. More soon.
-- 🤝 **[Handshake](https://re-marked.github.io/handshake/)** — *Obsidian for your network.* A local-first, 100%-on-device desktop app that turns the people in your orbit into a graph you can actually think with — deliberately AI-free. Public beta at v0.9.3, macOS/Windows/Linux via Tauri.
+- 🤝 **[Handshake](https://handshake.wtf/)** — *Obsidian for your network.* A local-first, 100%-on-device desktop app that turns the people in your orbit into a graph you can actually think with — deliberately AI-free. Public beta, macOS/Windows/Linux via Tauri.
 
 <p align="center">
-  <a href="https://re-marked.github.io/handshake/">
-    <img src="https://raw.githubusercontent.com/re-marked/handshake/main/site/public/screenshot-hero.png" alt="Handshake — a network of people connected by warmth-weighted ties" width="720" />
+  <a href="https://handshake.wtf/">
+    <img src="https://raw.githubusercontent.com/re-marked/handshake/main/public/demo.gif" alt="Handshake in motion — building a network of people connected by warmth-weighted ties" width="720" />
   </a>
 </p>
 
